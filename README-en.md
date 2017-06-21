@@ -1,5 +1,7 @@
 # creater
 
+[中文文档](./README.md)
+
 ## introduce
 
 Creater is a used to create customized one or a set of files

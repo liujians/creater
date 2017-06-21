@@ -1,5 +1,7 @@
 # creater
 
+[English](./README-en.md)
+
 ## 介绍
 
 creater 是一个用来定制化创建一个或一组文件
