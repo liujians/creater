@@ -38,9 +38,9 @@ creater 是一个用来定制化创建一个或一组文件
 	  css
 	    hello.css
 	  js
-		hello.js
+	    hello.js
 	  view
-		hello.html
+	    hello.html
 	  utils
 	  index.html
 	  package.json
