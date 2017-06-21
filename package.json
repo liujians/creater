@@ -1,0 +1,38 @@
+ {
+  "name":"creater",
+  "description": "create file with config",
+  "version": "1.0.6",
+  "keywords": [
+    "toolkit",
+    "cli"
+  ],
+  "files": [
+    "lib",
+    "example",
+    "bin"
+  ],
+  "bin": {
+    "creater": "./bin/creater.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "fs": "^0.0.1-security",
+    "make-dir": "^1.0.0",
+    "path": "^0.12.7",
+    "read": "^1.0.7",
+    "shelljs": "^0.7.8"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "engine-strict": true,
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "content":"//created by creater \n//2017-06-20",
+    "type":{
+        "html":{
+            "url":"view",
+            "template":"template/index.html"
+        },
+        "css": {
+            "url":"css",
+            "template":"template/index.css"
+        },
+        "js": {
+            "url":"js",
+            "template":"template/index.js"
+        }
+    },
+    "singlepath":"creater/simple"
+}
