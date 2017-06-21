@@ -1,6 +1,6 @@
 # creater
 
-[English](./README-en.md)
+[English](https://github.com/liujians/creater/blob/master/README-en.md)
 
 ## 介绍
 
