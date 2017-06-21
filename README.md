@@ -35,15 +35,15 @@ creater 是一个用来定制化创建一个或一组文件
 例如你的结构是这样
 
 	my-app
-		css
-			hello.css
-		js
-			hello.js
-		view
-			hello.html
-		utils
-		index.html
-		package.json
+	  css
+	    hello.css
+	  js
+		hello.js
+	  view
+		hello.html
+	  utils
+	  index.html
+	  package.json
 		
 以hello为名的文件有三个、分布在三个不同的文件夹、只是后缀不一样、甚至可能每一个都有它独立的内容
 
@@ -74,5 +74,3 @@ creater 是一个用来定制化创建一个或一组文件
 单文件创建模式、路径取simplepath、内容取content
 
 > creater new test --simple
-
-## 配置例子
