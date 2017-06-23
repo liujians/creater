@@ -14,6 +14,8 @@ Include content can also be unified by the template configuration, to prevent in
 
 > npm install -g creater
 
+![gif loading...](./creater-pre.gif)
+
 ## Quick start
 
 Through the command to generate configuration files

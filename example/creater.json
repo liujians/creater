@@ -14,5 +14,5 @@
             "template":"template/index.js"
         }
     },
-    "singlepath":"creater/simple"
+    "simplepath":"creater/simple"
 }
