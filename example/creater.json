@@ -14,5 +14,6 @@
             "template":"template/index.js"
         }
     },
-    "simplepath":"creater/simple"
+    "simplepath":"creater/simple",
+    "simpleTemplate":"template/simple.vue"
 }

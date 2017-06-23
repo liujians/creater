@@ -82,6 +82,6 @@ creater 是一个用来定制化创建一个或一组文件
 
 单文件创建模式、路径取simplepath、内容取content
 
-> creater new test --simple
+> creater new test.vue --simple
 
-//后续推出单文件使用模版的模式、也可以在issue留下你的建议
+//注意、simple模式下创建文件需要加扩展名
