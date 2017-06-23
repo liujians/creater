@@ -6,6 +6,8 @@
 
 creater 是一个用来定制化创建一个或一组文件
 
+比如一个.vue文件对应一个.js文件和一个.css文件、三个文件同名、就可以用到create file一次创建了
+
 根据参数、你可以根据配置一次性生成多个同名且不同后缀的文件、
 
 在项目中避免重复的create file、
@@ -80,3 +82,5 @@ creater 是一个用来定制化创建一个或一组文件
 单文件创建模式、路径取simplepath、内容取content
 
 > creater new test --simple
+
+//后续推出单文件使用模版的模式、也可以在issue留下你的建议
