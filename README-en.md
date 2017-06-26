@@ -32,7 +32,7 @@ Begin to use:
 
 or
 
-> creater new hello --simple
+> creater new hello.vue --simple
 
 We can see more parameters to [here](#configuration file)
 
@@ -79,4 +79,4 @@ Can use the help of the new view
 
 Single file creation mode, path take ` simplepath `, content to take ` content `
 
-> creater new test --simple
+> creater new test.vue --simple

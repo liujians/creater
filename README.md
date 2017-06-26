@@ -35,7 +35,7 @@ creater 是一个用来定制化创建一个或一组文件
 
 或者
 
-> creater new hello --simple
+> creater new hello.vue --simple
 
 更多参数可以看[这里](#配置文件)
 
@@ -84,4 +84,4 @@ creater 是一个用来定制化创建一个或一组文件
 
 > creater new test.vue --simple
 
-//注意、simple模式下创建文件需要加扩展名
+//注意、simple模式下创建文件需要加扩展名、多文件模式下会自动取后缀名所以不需要加
